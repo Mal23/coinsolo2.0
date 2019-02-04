@@ -1,0 +1,10 @@
+* {
+    text-align: center;
+}
+.hidden {
+    visibility: hidden;
+}
+
+img{
+    width: 200px;
+}
